@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 import random
+
+
 def get_randn():
     number = random.randint(-10000, 10000)
     return number
