@@ -3,7 +3,7 @@
 /**
  * check_cycle - checks if a singly linked list has a cycle in it
  * list - linked list
- *
+ * @list: parameteir
  * Return: 0 if cycle, 1 if no cycle
  */
 
