@@ -7,6 +7,7 @@ def update_dictionary(a_dictionary, key, value):
         new_dict[key] = value
         return new_dict
 
+
 if __name__ == '__main__':
     print_s = __import__('6-print_sorted_dictionary').print_sorted_dictionary
 
